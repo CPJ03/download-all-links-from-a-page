@@ -21,7 +21,7 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 ### Step 1 - Install Chrome Extension
 - Open Google Chrome
 - Go to https://chromewebstore.google.com/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge and click 'Add to Chrome'.
-- 'Add extension'
+- Click 'Add extension' in the popup. 
 ### Step 2 - Allow 
 - Go to uuper right corner in google chrome where there is a puzzle icon.
 - ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/15eecfb0-3d43-46a6-91e4-5d4636e6e53a)
