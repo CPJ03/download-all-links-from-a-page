@@ -29,8 +29,11 @@ Our goal is to download all the pdf files from the web based on catogories/filte
  
 - Click three dots beside the extension.
 - Click 'Manage Extension'.
-- ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/16404c8b-31fd-446d-9bed-b12ce9648f48)
-- Enable 'Allow access to file URLs'.
-- ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/cb730de5-e391-414f-bff3-9ec2c766425c)
+  
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/16404c8b-31fd-446d-9bed-b12ce9648f48)
+
+- Enable 'Allow access to file URLs'
+  
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/cb730de5-e391-414f-bff3-9ec2c766425c)
 
 
