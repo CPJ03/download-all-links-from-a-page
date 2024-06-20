@@ -187,4 +187,4 @@ Here is an **unfinished** HTML code that make use of `<checkbox>`, `<button>`, a
     
     </script>
 ```
-- Click here for full code: 
+- Click here for full code: [link]([url](https://github.com/CPJ03/download-all-links-from-a-page/blob/main/Unfinish%20Javascript.html))
