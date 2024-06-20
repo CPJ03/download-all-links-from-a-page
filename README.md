@@ -22,7 +22,7 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 - Open Google Chrome
 - Go to https://chromewebstore.google.com/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge and click 'Add to Chrome'.
 - Click 'Add extension' in the popup.
-- 
+
 ### Step 2 - Extension Settings
 - Go to upper right corner in google chrome where there is a puzzle icon.
   
@@ -71,28 +71,28 @@ Our goal is to download all the pdf files from the web based on catogories/filte
   </html>
   ```
 
-  - Save the file as 'Document.html'.
+- Save the file as 'Document.html'.
     
-    ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/39b7e149-a2b0-44f3-a8bd-726e77266317)
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/39b7e149-a2b0-44f3-a8bd-726e77266317)
 
-  - Click and run the HTML file. It should be something like this:
+- Click and run the HTML file. It should be something like this:
 
-    ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/0d89f85e-62d1-473c-812a-18504b2e7ff3)
-  - Note: the links would not work as it is internal links. See next step.
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/0d89f85e-62d1-473c-812a-18504b2e7ff3)
+- Note: the links would not work as it is internal links. See next step.
     
-  ### Step 4 - Conver Internal Links to External
-  - In the HTML editor, press `Ctrl + F` on windows.
-  - Search `/clients`.
-  - Click the down arrow on the left.
-  - Replace with the word `https://www.arcweb.com/clients`.
+### Step 4 - Conver Internal Links to External
+- In the HTML editor, press `Ctrl + F` on windows.
+- Search `/clients`.
+- Click the down arrow on the left.
+- Replace with the word `https://www.arcweb.com/clients`.
  
-    ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/797e1958-2c04-4caf-a132-da0fdeaf1016)
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/797e1958-2c04-4caf-a132-da0fdeaf1016)
 
-  - `Ctrl + S` to save the file
-  - Reload the site and all the links should works.
+- `Ctrl + S` to save the file
+- Reload the site and all the links should works.
     
-  ### Step 5 - Open all the links
-  - Open all the links by clicking the scroll wheel on the links.
+### Step 5 - Open all the links
+- Open all the links by clicking the scroll wheel on the links.
     
 
 
