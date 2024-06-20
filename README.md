@@ -8,7 +8,7 @@ Due to urgency of this project, the method provided below is not optimized.
 2. Chrome Extension by Nils Maier, https://chromewebstore.google.com/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge
 3. HTML Editor
 
-## A) IDENTIFY OBJECTIVE
+## A) Identify Objective
 Our goal is to download all the pdf files from the web based on catogories/filter
 ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/c39120bd-acdf-4a31-b59e-74c71a00d268)
 
@@ -21,8 +21,9 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 ### Step 1 - Install Chrome Extension
 - Open Google Chrome
 - Go to https://chromewebstore.google.com/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge and click 'Add to Chrome'.
-- Click 'Add extension' in the popup. 
-### Step 2 - Allow 
+- Click 'Add extension' in the popup.
+- 
+### Step 2 - Extension Settings
 - Go to upper right corner in google chrome where there is a puzzle icon.
   
    ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/15eecfb0-3d43-46a6-91e4-5d4636e6e53a)
@@ -78,8 +79,19 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 
     ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/0d89f85e-62d1-473c-812a-18504b2e7ff3)
 
-  ### Step 4 - 
+  ### Step 4 - Conver Internal Links to External
+  - In the HTML editor, press `Ctrl + F` on windows.
+  - Search `/clients`.
+  - Click the down arrow on the left.
+  - Replace the word `https://www.arcweb.com/clients`.
+ 
+    ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/797e1958-2c04-4caf-a132-da0fdeaf1016)
 
+  - `Ctrl + S` to save the file
+  - Reload the site and all the links should works.
+    
+  ### Step 5 - Open all the links
+  - Open all the links by clicking the scroll wheel on the links.
     
 
 
