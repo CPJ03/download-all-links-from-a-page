@@ -78,12 +78,13 @@ Our goal is to download all the pdf files from the web based on catogories/filte
   - Click and run the HTML file. It should be something like this:
 
     ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/0d89f85e-62d1-473c-812a-18504b2e7ff3)
-
+  - Note: the links would not work as it is internal links. See next step.
+    
   ### Step 4 - Conver Internal Links to External
   - In the HTML editor, press `Ctrl + F` on windows.
   - Search `/clients`.
   - Click the down arrow on the left.
-  - Replace the word `https://www.arcweb.com/clients`.
+  - Replace with the word `https://www.arcweb.com/clients`.
  
     ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/797e1958-2c04-4caf-a132-da0fdeaf1016)
 
