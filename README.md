@@ -80,7 +80,7 @@ Our goal is to download all the pdf files from the web based on catogories/filte
   ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/0d89f85e-62d1-473c-812a-18504b2e7ff3)
 - Note: the links would not work as it is internal links. See next step.
     
-### Step 4 - Conver Internal Links to External
+### Step 4 - Convert Internal Links to External
 - In the HTML editor, press `Ctrl + F` on windows.
 - Search `/clients`.
 - Click the down arrow on the left.
