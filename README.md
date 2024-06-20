@@ -117,5 +117,6 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 
 - Click download and you are done! 
  
-
+## D) Optimization
+Due to short of time, this method requires my colleagues to open nearly 2000+ links in order to batch download all. Here is an **unfinished** HTML code that make use of `checkbox` and a `button` to let user batch open all the links with single click. 
 
