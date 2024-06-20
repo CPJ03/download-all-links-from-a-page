@@ -125,5 +125,66 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 ## D) Optimization
 Due to short of time, this method requires my colleagues to open nearly 2000+ links in order to batch download all. 
 
-Here is an **unfinished** HTML code that make use of `checkbox`, `button`, and `array` to let user batch open all the links with single click. The `start` of an array and `end` of the array is determined based on the `length` which is assigned upon user checkbox selection. 
+Here is an **unfinished** HTML code that make use of `<checkbox>`, `<button>`, and `Array` to let user batch open all the links with single click. The `start` of an array and `end` of the array is determined based on the `length` which is assigned upon user checkbox selection. 
+```
+<script>
+        const form = document.getElementById('myForm');
+        let selectedOption = null;
+        let length = 0;
 
+        form.addEventListener('change', (event) => {
+            if (event.target.name === 'option') {
+                selectedOption = event.target.value;
+                if (selectedOption === 'option1') {
+                    length = 100;
+                }
+                if (selectedOption === 'option2') {
+                    length = 200;
+                }
+                if (selectedOption === 'option3') {
+                    length = 300;
+                }
+                if (selectedOption === 'option4') {
+                    length = 400;
+                }
+                if (selectedOption === 'option5') {
+                    length = 500;
+                }
+                if (selectedOption === 'option6') {
+                    length = 600;
+                }
+                if (selectedOption === 'option7') {
+                    length = 700;
+                }
+                if (selectedOption === 'option8') {
+                    length = 800;
+                }
+            }
+            
+        });
+
+
+        <! -- this function contain bugs which is consider 'unfinished' -->
+        const downloadAll = () => {
+            const allLinks = document.querySelectorAll('a');
+            if (selectedOption) {
+                const [start, end] = selectedOption.split('-').map(Number);
+                const linksToOpen = Array.from(allLinks).slice(length - 100, length);
+
+                linksToOpen.forEach(link => {
+                    const event = new MouseEvent('click', {
+                        bubbles: true,
+                        cancelable: true,
+                        view: window
+                    });
+                    link.target = '_blank'; // Ensures the link opens in a new tab
+                    link.dispatchEvent(event);
+                });
+            } else {
+                alert("Please select a range before clicking 'Open selected links'");
+            }
+        };
+    
+    </script>
+```
+- Click here for full code: 
