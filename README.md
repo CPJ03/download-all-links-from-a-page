@@ -36,4 +36,12 @@ Our goal is to download all the pdf files from the web based on catogories/filte
   
   ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/cb730de5-e391-414f-bff3-9ec2c766425c)
 
+### Step 3 - Create HTML lists
+- Go to https://www.arcweb.com/clients/reports.
+- Log in account.
+- Filter files needed using filter panel on the left. Remember to click 'Apply'. 
 
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/e23ffb93-b30d-43e8-a397-a88cda67fee1)
+
+- On Page 1, right click -> 'View page source'
+- Scroll until you find the <table> tags
