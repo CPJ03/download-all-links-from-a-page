@@ -1,5 +1,4 @@
-![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/62fd7c55-5846-4fa0-9da6-cb9984d88a24)# download-all-links-from-a-page
-Download All Links From A Page
+**Download All Links From A Page**
 
 This repo showcase how my colleagues and I work on this site: https://www.arcweb.com/clients/reports, to get all the pdf downloaded into local device.
 Due to urgency of this project, the method provided below is not optimized.
