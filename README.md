@@ -1,7 +1,7 @@
 # Download All Links From A Page
 
 This repo showcase how my colleagues and I work on this site: https://www.arcweb.com/clients/reports, to get all the pdf downloaded into local device.
-Due to urgency of this project, the method provided below is not optimized.
+Due to urgency of this project, the method provided below is <ins>not optimized</ins>.
 
 ### You need: 
 1. Chrome Browser
