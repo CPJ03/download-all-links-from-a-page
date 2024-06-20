@@ -23,7 +23,7 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 - Go to https://chromewebstore.google.com/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge and click 'Add to Chrome'.
 - Click 'Add extension' in the popup. 
 ### Step 2 - Allow 
-- Go to uper right corner in google chrome where there is a puzzle icon.
+- Go to upper right corner in google chrome where there is a puzzle icon.
   
    ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/15eecfb0-3d43-46a6-91e4-5d4636e6e53a)
  
@@ -44,4 +44,10 @@ Our goal is to download all the pdf files from the web based on catogories/filte
   ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/e23ffb93-b30d-43e8-a397-a88cda67fee1)
 
 - On Page 1, right click -> 'View page source'
-- Scroll until you find the <table> tags
+- Scroll until you find the `<table>` tags
+- Copy the whole `<table> ... </table>` tags
+
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/f14b05f2-6034-4ec1-8e01-6193c5c377bc)
+
+- 
+
