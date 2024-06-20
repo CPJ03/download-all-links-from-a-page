@@ -108,7 +108,14 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 
 - Click 'DownThemAll! - All Tabs'. 
 
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/00c0454f-5593-403d-8dc7-ee7fc37c1395)
 
-    
+- There will be a popup window: 
+- Choose Documents (pdf, odf, docsx, ...) and untick other filters.
+  
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/5b57a85d-c6f8-4392-a44c-5775c6553456)
+
+- Click download and you are done! 
+ 
 
 
