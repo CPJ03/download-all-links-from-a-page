@@ -18,14 +18,15 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 3. The href links in the source code are internal links.
 
 ## C) Solution
-# Step 1 - Install Chrome Extension
-> Open Google Chrome
-> Go to https://chromewebstore.google.com/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge and click 'Add to Chrome'.
-> 'Add extension'
-# Step 2 - Allow 
-> Go to uuper right corner in google chrome where there is a puzzle icon.
-> ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/15eecfb0-3d43-46a6-91e4-5d4636e6e53a)
-> Click three dots beside the extension.
-> Click 'Manage Extension'.
-> ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/16404c8b-31fd-446d-9bed-b12ce9648f48)
+### Step 1 - Install Chrome Extension
+- Open Google Chrome
+- Go to https://chromewebstore.google.com/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge and click 'Add to Chrome'.
+- 'Add extension'
+### Step 2 - Allow 
+- Go to uuper right corner in google chrome where there is a puzzle icon.
+- ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/15eecfb0-3d43-46a6-91e4-5d4636e6e53a)
+- Click three dots beside the extension.
+- Click 'Manage Extension'.
+- ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/16404c8b-31fd-446d-9bed-b12ce9648f48)
+- Enable 'Allow access to file URLs' 
 
