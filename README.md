@@ -125,5 +125,5 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 ## D) Optimization
 Due to short of time, this method requires my colleagues to open nearly 2000+ links in order to batch download all. 
 
-Here is an **unfinished** HTML code that make use of `checkbox` and a `button` to let user batch open all the links with single click. It make use of `Javascript` function to create an array to collect user checkbox value. The `start` of an array and `end` of the array is determined based on the `length` which is assigned upon user checkbox selection. 
+Here is an **unfinished** HTML code that make use of `checkbox`, `button`, and `array` to let user batch open all the links with single click. The `start` of an array and `end` of the array is determined based on the `length` which is assigned upon user checkbox selection. 
 
