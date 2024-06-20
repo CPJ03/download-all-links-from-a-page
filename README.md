@@ -70,8 +70,15 @@ Our goal is to download all the pdf files from the web based on catogories/filte
   </html>
   ```
 
-  - Save the file as 'Document.html'. 
+  - Save the file as 'Document.html'.
+    
+    ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/39b7e149-a2b0-44f3-a8bd-726e77266317)
+
   - Click and run the HTML file. It should be something like this:
+
+    ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/0d89f85e-62d1-473c-812a-18504b2e7ff3)
+
+  ### Step 4 - 
 
     
 
