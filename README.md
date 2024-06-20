@@ -89,6 +89,7 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 - Search `/clients`.
 - Click the down arrow on the left.
 - Replace with the word `https://www.arcweb.com/clients`.
+- Enter `Ctrl + Alt + Enter` to replace all. 
  
   ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/797e1958-2c04-4caf-a132-da0fdeaf1016)
 
@@ -97,6 +98,17 @@ Our goal is to download all the pdf files from the web based on catogories/filte
     
 ### Step 5 - Open all the links
 - Open all the links by clicking the scroll wheel on the links.
+
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/29633cbd-ce76-4a80-9a64-76f5d06ef5e9)
+
+### step 6 - Download All!
+- Open the extension by clicking the puzzle icon again.
+  
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/afe33fee-f2e3-4bab-a8de-21570f8c432a)
+
+- Click 'DownThemAll! - All Tabs'. 
+
+
     
 
 
