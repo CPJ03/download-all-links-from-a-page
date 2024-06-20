@@ -82,7 +82,12 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 - Click and run the HTML file. It should be something like this:
 
   ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/0d89f85e-62d1-473c-812a-18504b2e7ff3)
-- Note: the links would not work as they are internal links. See next step.
+- Note: the links would not work as they are internal links. See step 4.
+- Copy and paste the `<table> ... </table>` for all the page after.
+- Navigate the page using the button at the bottom of page.
+
+  ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/57887aa6-88c8-48c0-8293-1529b5f57767)
+
     
 ### Step 4 - Convert Internal Links to External
 - In the HTML editor, press `Ctrl + F` on windows.
