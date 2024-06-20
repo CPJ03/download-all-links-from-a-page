@@ -125,7 +125,7 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 ## D) Optimization
 Due to short of time, this method requires my colleagues to open nearly 2000+ links in order to batch download all. 
 
-Here is an **unfinished** HTML code that make use of `<checkbox>`, `<button>`, and `Array` to let user batch open all the links with single click. The `start` of an array and `end` of the array is determined based on the `length` which is assigned upon user checkbox selection. 
+Here is an **unfinished** HTML code that make use of `<radio>`, `<button>`, and `Array` to let user batch open all the links with single click. The `start` of an array and `end` of the array is determined based on the `length` which is assigned upon user checkbox selection. 
 
 ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/73cba4ae-babb-454b-b604-638f1f87b4b4)
 
