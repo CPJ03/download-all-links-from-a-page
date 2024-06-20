@@ -3,10 +3,10 @@
 This repo showcase how my colleagues and I work on this site: https://www.arcweb.com/clients/reports, to get all the pdf downloaded into local device.
 Due to urgency of this project, the method provided below is not optimized.
 
-## Tools/Code include:
+### You need: 
 1. Chrome Browser
 2. Chrome Extension by Nils Maier, https://chromewebstore.google.com/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge
-3. HTML
+3. HTML Editor
 
 ## A) IDENTIFY OBJECTIVE
 Our goal is to download all the pdf files from the web based on catogories/filter
