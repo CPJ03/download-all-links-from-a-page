@@ -102,7 +102,7 @@ Our goal is to download all the pdf files from the web based on catogories/filte
 - Reload the site and all the links should works.
     
 ### Step 5 - Open all the links
-- Open all the links by clicking the scroll wheel on the links.
+- Open all the links by clicking the scroll wheel with mouse on the links.
 
   ![image](https://github.com/CPJ03/download-all-links-from-a-page/assets/88066484/29633cbd-ce76-4a80-9a64-76f5d06ef5e9)
 
